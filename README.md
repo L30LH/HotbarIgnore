@@ -1,4 +1,4 @@
-# Main Hand Hotkey
+[# Main Hand Hotkey
 
 ## A minecraft mod which adds a hotkey for the Main Hand
 
