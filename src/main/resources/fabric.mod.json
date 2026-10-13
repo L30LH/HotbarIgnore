@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "hotbarignore",
+	"version": "${version}",
+	"name": "HotbarIgnore",
+	"description": "When inventory is open, ignores custom hotbar keybinds and uses default number keys (1-9).",
+	"authors": [
+		"User"
+	],
+	"license": "MIT",
+	"icon": "assets/hotbarignore/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.hotbarignore.client.HotbarIgnoreClient"
+		]
+	},
+	"mixins": [
+		{
+			"config": "hotbarignore.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.11",
+		"java": ">=21"
+	}
+}
