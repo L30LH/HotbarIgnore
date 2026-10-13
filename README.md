@@ -4,7 +4,7 @@
 
 | Fabric                                                                                                        |
 |---------------------------------------------------------------------------------------------------------------|
-| [1.21.11]([https://github.com/L30LH/HotbarIgnore/releases/download/v1.0.0/hotbarignore-1.0.0.jar])) | 
+| [1.21.11](https://github.com/L30LH/HotbarIgnore/releases/download/v1.0.0/hotbarignore-1.0.0.jar) | 
 
 ## License
 
