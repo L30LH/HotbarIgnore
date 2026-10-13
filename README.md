@@ -1,6 +1,6 @@
-[# Main Hand Hotkey
+# Hotbar Ignore
 
-## A minecraft mod which adds a hotkey for the Main Hand
+## A minecraft mod that makes the inventory ignore custom Hotbar Hotkeys, only sticking with the basic numbers rather than your game hotkeys
 
 | Fabric                                                                                                        |
 |---------------------------------------------------------------------------------------------------------------|
